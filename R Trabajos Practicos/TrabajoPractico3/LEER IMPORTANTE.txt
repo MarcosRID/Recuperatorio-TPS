@@ -1,0 +1,2 @@
+data.bien ---> Archivo donde guarda binario (borrar para simular la primera carga)
+nextId.txt ---> Achivo en el cual se guarda el proximo ID (borrar para simular la primera carga a partir del id 1001)

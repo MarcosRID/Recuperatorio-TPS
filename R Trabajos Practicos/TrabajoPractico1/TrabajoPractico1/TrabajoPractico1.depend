@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1592817303 source:c:\users\usuario\desktop\proyecto actual\trabajopractico1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1592775618 c:\users\usuario\desktop\proyecto actual\trabajopractico1\utn.h
+
+1592817488 source:c:\users\usuario\desktop\proyecto actual\trabajopractico1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN.h"
+

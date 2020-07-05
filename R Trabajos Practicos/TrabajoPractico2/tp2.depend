@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1593287338 source:c:\users\usuario\desktop\code block\proyecto actual\tp2\arrayemployees”.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"ArrayEmployees”.h"
+
+1593282388 c:\users\usuario\desktop\code block\proyecto actual\tp2\utn.h
+
+1593286616 c:\users\usuario\desktop\code block\proyecto actual\tp2\arrayemployees”.h
+
+1593222496 source:c:\users\usuario\desktop\code block\proyecto actual\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+
+1593287648 source:c:\users\usuario\desktop\code block\proyecto actual\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"ArrayEmployees”.h"
+	"dataWereHouse.h"
+
+1593272268 c:\users\usuario\desktop\code block\proyecto actual\tp2\datawerehouse.h
+
+1593283992 c:\users\usuario\desktop\code block\proyecto actual\tp2\validaciones.h
+
+1593284105 source:c:\users\usuario\desktop\code block\proyecto actual\tp2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1593287776 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\tps\trabajopractico2\arrayemployees”.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"ArrayEmployees”.h"
+
+1593283992 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\tps\trabajopractico2\validaciones.h
+
+1593286616 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\tps\trabajopractico2\arrayemployees”.h
+
+1593287648 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\tps\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+	"ArrayEmployees”.h"
+	"dataWereHouse.h"
+
+1593272268 c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\tps\trabajopractico2\datawerehouse.h
+
+1593977406 source:c:\users\usuario\desktop\code block\estudio utn\1 !cuatrimestre\laboratorio-programacion1\tps\trabajopractico2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
